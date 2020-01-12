@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="instrumentType">
+        <item>钢琴</item>
+        <item>吉他</item>
+        <item>尤克里里</item>
+        <item>口风琴</item>
+    </string-array>
+</resources>
